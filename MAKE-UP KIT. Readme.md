@@ -8,15 +8,15 @@
   <h2>Makeup Products</h2>
   <ul>
     <li>
-      <img src="eyeshadow.jpg" alt="Eyeshadow">
+      <img src=" https://images.pexels.com/photos/7290609/pexels-photo-7290609.jpeg?auto=compress&cs=tinysrgb&w=600="Eyeshadow">
       <span>Eyeshadow</span>
     </li>
     <li>
-      <img src="lipstick.jpg" alt="Lipstick">
+      <img src="" alt="Liphttps://www.istockphoto.com/photo/set-of-lipsticks-isolated-on-white-background-gm2154263339-575145261?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=lipstickstick">
       <span>Lipstick</span>
     </li>
     <li>
-      <img src="blush.jpg" alt="Blush">
+      <img src="https://images.pexels.com/photos/3059639/pexels-photo-3059639.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Blush">
       <span>Blush</span>
     </li>
   </ul>
